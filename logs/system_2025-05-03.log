@@ -1,0 +1,217 @@
+[2025-05-03 06:54:52] AUTH: login by LUPON (lupon) from IP: ::1
+[2025-05-03 06:56:15] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 06:56:18] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 06:56:22] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 06:56:27] SYSTEM: view_logs - User viewed logs for date: 2025-05-01, type: ALL
+[2025-05-03 07:10:08] AUTH: login by LUPON (lupon) from IP: ::1
+[2025-05-03 07:10:30] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:10:49] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: AUTH
+[2025-05-03 07:10:54] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 07:10:56] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: USER
+[2025-05-03 07:10:57] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: DATA
+[2025-05-03 07:10:58] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ERROR
+[2025-05-03 07:10:59] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: SYSTEM
+[2025-05-03 07:11:16] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:12:53] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:20:55] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:21:04] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:22:05] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:22:10] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:22:17] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:22:40] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:25:37] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:25:49] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:26:47] CASE: add on case #25-011 by LUPON
+[2025-05-03 07:27:02] CASE: archive on case #25-011 by LUPON
+[2025-05-03 07:27:06] CASE: archive on case #25-010 by LUPON
+[2025-05-03 07:28:46] CASE: restore on case #25-010 by LUPON
+[2025-05-03 07:28:49] CASE: restore on case #25-011 by LUPON
+[2025-05-03 07:37:20] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:37:45] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:42:59] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:44:46] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:48:29] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:49:33] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:49:37] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:49:41] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:54:29] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:56:33] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:56:34] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:56:35] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: AUTH
+[2025-05-03 07:56:37] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 07:56:37] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: USER
+[2025-05-03 07:56:40] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: DATA
+[2025-05-03 07:56:41] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ERROR
+[2025-05-03 07:56:41] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: SYSTEM
+[2025-05-03 07:56:45] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ERROR
+[2025-05-03 07:56:47] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: USER
+[2025-05-03 07:56:48] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:57:46] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:57:59] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:58:12] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 07:59:42] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:00:06] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:00:09] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:00:11] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: AUTH
+[2025-05-03 08:00:12] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 08:00:16] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: USER
+[2025-05-03 08:00:19] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: DATA
+[2025-05-03 08:00:21] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:00:27] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: SYSTEM
+[2025-05-03 08:00:32] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ERROR
+[2025-05-03 08:00:33] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: DATA
+[2025-05-03 08:00:34] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: USER
+[2025-05-03 08:00:34] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 08:00:35] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: AUTH
+[2025-05-03 08:00:36] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:00:51] CASE: archive on case #25-011 by LUPON
+[2025-05-03 08:00:54] CASE: archive on case #25-010 by LUPON
+[2025-05-03 08:01:02] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:01:06] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 08:11:22] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:11:29] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 08:11:38] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: SYSTEM
+[2025-05-03 08:11:40] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 08:11:48] CASE: restore on case #25-010 by LUPON
+[2025-05-03 08:11:49] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:11:50] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 08:20:51] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:23:20] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:23:23] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:23:26] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:26:28] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:26:49] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:28:34] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:30:24] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:30:29] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:30:32] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:30:37] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:43:26] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:48:22] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 08:52:20] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 08:59:15] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 09:09:11] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 09:09:12] AUTH: logout by LUPON (lupon) from IP: ::1
+[2025-05-03 09:09:19] AUTH: login by LUPON (lupon) from IP: ::1
+[2025-05-03 09:09:23] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 09:15:03] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 09:15:05] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: AUTH
+[2025-05-03 09:15:06] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 09:15:08] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: USER
+[2025-05-03 09:15:10] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 09:16:30] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 09:16:42] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: CASE
+[2025-05-03 09:16:48] CASE: restore on case #25-011 by LUPON
+[2025-05-03 09:16:49] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 09:29:58] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 09:30:09] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 09:31:45] AUTH: logout by LUPON (lupon) from IP: ::1
+[2025-05-03 09:31:51] AUTH: login by OFFICIAL (official) from IP: ::1
+[2025-05-03 09:59:51] AUTH: login by LUPON (lupon) from IP: ::1
+[2025-05-03 10:05:01] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:08:04] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:09:01] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:21:06] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:21:13] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:28:58] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:32:51] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:36:04] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:36:37] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:36:58] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:40:30] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:42:42] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:46:17] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:46:23] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:46:28] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:47:47] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:47:52] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:48:00] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:51:05] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:51:11] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:51:39] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:54:15] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:54:21] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 10:57:29] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:00:10] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:01:22] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:01:25] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:04:25] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:07:06] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:07:14] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:09:29] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:09:38] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:10:06] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:10:14] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:11:32] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:19:45] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 11:42:04] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 13:59:49] AUTH: login by LUPON (lupon) from IP: ::1
+[2025-05-03 13:59:55] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 13:59:58] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 14:00:03] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 14:00:26] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 14:00:28] DATA: backup - Created backup file: backup_2025-05-03_14-00-28.sql by LUPON
+[2025-05-03 14:30:19] ERROR: backup_failed - Failed to create ZIP archive: 
+7-Zip 24.09 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-11-29
+
+Scanning the drive:
+1 file, 122 bytes (1 KiB)
+
+Creating archive: C:\xampp\tmp\backup_2025-05-03_14-30-19.zip
+
+
+[2025-05-03 14:32:25] ERROR: backup_failed - Failed to create ZIP archive: 
+7-Zip 24.09 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-11-29
+
+Scanning the drive:
+1 file, 123 bytes (1 KiB)
+
+Creating archive: C:\xampp\tmp\backup_2025-05-03_14-32-25.zip
+
+
+[2025-05-03 14:40:44] ERROR: backup_failed - Failed to create ZIP archive: 
+7-Zip 24.09 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-11-29
+
+Scanning the drive:
+1 file, 123 bytes (1 KiB)
+
+Creating archive: C:\xampp\tmp\backup_2025-05-03_14-40-44.zip
+
+
+[2025-05-03 14:42:00] ERROR: backup_failed - Failed to create ZIP archive: 
+7-Zip 24.09 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-11-29
+
+Scanning the drive:
+1 file, 123 bytes (1 KiB)
+
+Creating archive: C:\xampp\tmp\backup_2025-05-03_14-42-00.zip
+
+
+[2025-05-03 14:42:05] ERROR: backup_failed - Failed to create ZIP archive: 
+7-Zip 24.09 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-11-29
+
+Scanning the drive:
+1 file, 123 bytes (1 KiB)
+
+Creating archive: C:\xampp\tmp\backup_2025-05-03_14-42-05.zip
+
+
+[2025-05-03 14:43:46] ERROR: backup_failed - Failed to create ZIP archive: 
+7-Zip 24.09 (x64) : Copyright (c) 1999-2024 Igor Pavlov : 2024-11-29
+
+Scanning the drive:
+1 file, 123 bytes (1 KiB)
+
+Creating archive: C:\xampp\tmp\backup_2025-05-03_14-43-46.zip
+
+
+[2025-05-03 14:46:27] ERROR: backup_failed - MySQL dump failed. Output: 
+[2025-05-03 14:47:51] ERROR: backup_failed - MySQL dump failed. Output: 
+[2025-05-03 14:48:02] ERROR: backup_failed - MySQL dump failed. Output: 
+[2025-05-03 14:52:18] DATA: backup - Created backup file: backup_2025-05-03_14-52-18.sql by LUPON
+[2025-05-03 14:52:53] DATA: backup - Created backup file: backup_2025-05-03_14-52-52.sql by LUPON
+[2025-05-03 14:53:20] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 14:53:28] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 15:01:35] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 15:02:39] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
+[2025-05-03 15:15:26] SYSTEM: view_logs - User viewed logs for date: 2025-05-03, type: ALL
